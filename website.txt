@@ -1,0 +1,4 @@
+https://github.com/notAI-tech/NudeNet
+https://github.com/yaroslaff/nudecrawler/blob/master/tests/test_nudecrawler.py
+https://apilayer.com/
+https://dashboard.sightengine.com/plan

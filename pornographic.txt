@@ -1,0 +1,226 @@
+Изображение может содержать суггестивный контент и требует дополнительной проверки.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzJPo7ZPLWrJY672kXqu",
+        "timestamp": 1715154948.360578,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.99,
+        "suggestive_classes": {
+            "bikini": 0.99,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.01
+        },
+        "none": 0.03,
+        "context": {
+            "sea_lake_pool": 0.28,
+            "outdoor_other": 0.71,
+            "indoor_other": 0.01
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzJEGx8hBqQN9RJUQo9Y",
+        "uri": "pornographic.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение может содержать суггестивный контент и требует дополнительной проверки.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzKhfQKGzkHfWWKyePYC",
+        "timestamp": 1715154970.958898,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.99,
+        "suggestive_classes": {
+            "bikini": 0.99,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.01
+        },
+        "none": 0.02,
+        "context": {
+            "sea_lake_pool": 0.98,
+            "outdoor_other": 0.02,
+            "indoor_other": 0.01
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzKSiSH8RVwos7cGGDiB",
+        "uri": "pornographic1.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение может содержать суггестивный контент и требует дополнительной проверки.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzKxhYp7KlLR90SUGqon",
+        "timestamp": 1715154986.537974,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.99,
+        "suggestive_classes": {
+            "bikini": 0.99,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.01
+        },
+        "none": 0.03,
+        "context": {
+            "sea_lake_pool": 0.99,
+            "outdoor_other": 0.01,
+            "indoor_other": 0.01
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzKbCs93lR3LbPbDdME6",
+        "uri": "pornographic2.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение может содержать неприемлемый контент и требует ручной проверки.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdAeBTxAsaT1i9fRGPErz",
+        "timestamp": 1715156816.349279,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.24,
+        "sexual_display": 0.02,
+        "erotica": 0.5,
+        "sextoy": 0.01,
+        "suggestive": 0.18,
+        "suggestive_classes": {
+            "bikini": 0.01,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.02,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.03,
+            "miniskirt": 0.15,
+            "other": 0.18
+        },
+        "none": 0.06,
+        "context": {
+            "sea_lake_pool": 0.01,
+            "outdoor_other": 0.02,
+            "indoor_other": 0.98
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdAe9SdDF5S96Ymu62gV5",
+        "uri": "pornographic4.jpg"
+    }
+}
+
+Process finished with exit code 0

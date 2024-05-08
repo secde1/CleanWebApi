@@ -1,0 +1,228 @@
+Изображение безопасно.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzKWS5NweasNKBsu9RUr",
+        "timestamp": 1715155016.149769,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.01,
+        "suggestive_classes": {
+            "bikini": 0.01,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.01
+        },
+        "none": 0.99,
+        "context": {
+            "sea_lake_pool": 0.01,
+            "outdoor_other": 0.98,
+            "indoor_other": 0.01
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzK8k8NNJ9quLZQU5akU",
+        "uri": "normal.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение безопасно.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzLPZ5llXarce2wyOaJR",
+        "timestamp": 1715155026.480479,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.01,
+        "suggestive_classes": {
+            "bikini": 0.01,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.01
+        },
+        "none": 0.99,
+        "context": {
+            "sea_lake_pool": 0.01,
+            "outdoor_other": 0.98,
+            "indoor_other": 0.01
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzL2aNAurpDk2WlTzXBo",
+        "uri": "photo1.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение безопасно.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdzLvyD2o1yvTYrGak01Z",
+        "timestamp": 1715155040.304153,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.24,
+        "suggestive_classes": {
+            "bikini": 0.01,
+            "cleavage": 0.01,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "none": 0.99
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.01,
+            "other": 0.24
+        },
+        "none": 0.79,
+        "context": {
+            "sea_lake_pool": 0.01,
+            "outdoor_other": 0.82,
+            "indoor_other": 0.18
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdzLhz0GPwH7kRry1ut0N",
+        "uri": "normal2.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+
+"/home/secde1/PycharmProjects/CleanWebAPI /.venv/bin/python" /home/secde1/PycharmProjects/CleanWebAPI /main.py
+Изображение может содержать суггестивный контент и требует дополнительной проверки.
+Изображение может содержать неприемлемый контент и требует ручной проверки.
+{
+    "status": "success",
+    "request": {
+        "id": "req_gdAlr6WcbSFHURHm9N0PV",
+        "timestamp": 1715157183.424384,
+        "operations": 2
+    },
+    "nudity": {
+        "sexual_activity": 0.01,
+        "sexual_display": 0.01,
+        "erotica": 0.01,
+        "sextoy": 0.01,
+        "suggestive": 0.58,
+        "suggestive_classes": {
+            "bikini": 0.01,
+            "cleavage": 0.06,
+            "cleavage_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.05,
+                "none": 0.94
+            },
+            "lingerie": 0.01,
+            "male_chest": 0.01,
+            "male_chest_categories": {
+                "very_revealing": 0.01,
+                "revealing": 0.01,
+                "slightly_revealing": 0.01,
+                "none": 0.99
+            },
+            "male_underwear": 0.01,
+            "miniskirt": 0.58,
+            "other": 0.08
+        },
+        "none": 0.53,
+        "context": {
+            "sea_lake_pool": 0.01,
+            "outdoor_other": 0.98,
+            "indoor_other": 0.02
+        }
+    },
+    "gore": {
+        "prob": 0.01
+    },
+    "skull": {
+        "prob": 0.01
+    },
+    "media": {
+        "id": "med_gdAlcAeY32rfvrxPmJvhY",
+        "uri": "qwer2.jpg"
+    }
+}
+
+Process finished with exit code 0
+
+req_gdAmKCy9PiEiPNGmipgRb	May 8th, 08:34:16	image moderation	success
